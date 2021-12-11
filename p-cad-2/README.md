@@ -5,5 +5,5 @@
 ![img](https://github.com/the-demiurge/tpcs-basov305/blob/main/images/2-2.jpg?raw=true)
 ## Поляризований конденсатор
 ![img](https://github.com/the-demiurge/tpcs-basov305/blob/main/images/2-3.jpg?raw=true)
-##Компоненти в бібліотеці
+## Компоненти в бібліотеці
 ![img](https://github.com/the-demiurge/tpcs-basov305/blob/main/images/2-4.jpg?raw=true)
