@@ -1,0 +1,93 @@
+PCAD Importer Log
+Project : BasovD_Lab02.LibPkg
+
+Section : D:\STUDY\tpcs-basov305\p-cad-5\BasovD_Lab02.LIA
+    Section : PCB Library - BasovD_Lab02.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token defaultPinDes On Line 132
+            Warning - 1 : Skipping Token defaultPinDes On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 134
+            Warning - 1 : Skipping Token defaultPinDes On Line 135
+            Warning - 1 : Skipping Token defaultPinDes On Line 136
+            Warning - 1 : Skipping Token defaultPinDes On Line 137
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 139
+            Warning - 1 : Skipping Token defaultPinDes On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 141
+            Warning - 1 : Skipping Token defaultPinDes On Line 142
+            Warning - 1 : Skipping Token defaultPinDes On Line 143
+            Warning - 1 : Skipping Token defaultPinDes On Line 144
+            Warning - 1 : Skipping Token defaultPinDes On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 146
+            Warning - 1 : Skipping Token defaultPinDes On Line 147
+            Warning - 1 : Skipping Token defaultPinDes On Line 148
+            Warning - 1 : Skipping Token defaultPinDes On Line 149
+            Warning - 1 : Skipping Token defaultPinDes On Line 150
+            Warning - 1 : Skipping Token defaultPinDes On Line 151
+            Warning - 1 : Skipping Token defaultPinDes On Line 152
+            Warning - 1 : Skipping Token defaultPinDes On Line 153
+            Warning - 1 : Skipping Token defaultPinDes On Line 154
+            Warning - 1 : Skipping Token CONTACT2 On Line 190
+            Warning - 1 : Skipping Token LED On Line 206
+            Warning - 1 : Skipping Token LM1040_MICROCHIP On Line 239
+            Warning - 1 : Skipping Token POLARIZED_CAPACITOR On Line 440
+            Warning - 1 : Skipping Token attachedSymbol On Line 480
+            Warning - 1 : Skipping Token attachedSymbol On Line 494
+            Warning - 1 : Skipping Token attachedSymbol On Line 537
+            Warning - 1 : Skipping Token attachedSymbol On Line 580
+        EndSection
+
+        Section : Import Messages
+            Warning : Component CONTACT2 does not have PCB footprint definition and will be skipped
+        EndSection
+    EndSection
+
+    Section : SCH Library - BasovD_Lab02.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token viaStyleDef On Line 53
+            Warning - 1 : Skipping Token multiLayer On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token multiLayer On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 156
+            Warning - 1 : Skipping Token multiLayer On Line 174
+            Warning - 1 : Skipping Token layerContents On Line 178
+            Warning - 1 : Skipping Token defaultPinDes On Line 198
+            Warning - 1 : Skipping Token defaultPinDes On Line 214
+            Warning - 1 : Skipping Token defaultPinDes On Line 222
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 255
+            Warning - 1 : Skipping Token defaultPinDes On Line 263
+            Warning - 1 : Skipping Token defaultPinDes On Line 271
+            Warning - 1 : Skipping Token defaultPinDes On Line 279
+            Warning - 1 : Skipping Token defaultPinDes On Line 287
+            Warning - 1 : Skipping Token defaultPinDes On Line 295
+            Warning - 1 : Skipping Token defaultPinDes On Line 303
+            Warning - 1 : Skipping Token defaultPinDes On Line 311
+            Warning - 1 : Skipping Token defaultPinDes On Line 319
+            Warning - 1 : Skipping Token defaultPinDes On Line 327
+            Warning - 1 : Skipping Token defaultPinDes On Line 335
+            Warning - 1 : Skipping Token defaultPinDes On Line 343
+            Warning - 1 : Skipping Token defaultPinDes On Line 351
+            Warning - 1 : Skipping Token defaultPinDes On Line 359
+            Warning - 1 : Skipping Token defaultPinDes On Line 367
+            Warning - 1 : Skipping Token defaultPinDes On Line 375
+            Warning - 1 : Skipping Token defaultPinDes On Line 383
+            Warning - 1 : Skipping Token defaultPinDes On Line 391
+            Warning - 1 : Skipping Token defaultPinDes On Line 399
+            Warning - 1 : Skipping Token defaultPinDes On Line 407
+            Warning - 1 : Skipping Token defaultPinDes On Line 415
+            Warning - 1 : Skipping Token defaultPinDes On Line 423
+            Warning - 1 : Skipping Token defaultPinDes On Line 431
+            Warning - 1 : Skipping Token defaultPinDes On Line 448
+            Warning - 1 : Skipping Token defaultPinDes On Line 456
+        EndSection
+
+        Section : Generating SCH Library - BasovD_Lab02.SchLib
+        EndSection
+    EndSection
+EndSection

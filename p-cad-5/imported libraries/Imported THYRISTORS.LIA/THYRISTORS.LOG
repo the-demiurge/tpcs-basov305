@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : THYRISTORS.LibPkg
+
+Section : D:\STUDY\tpcs-basov305\p-cad-5\THYRISTORS.LIA
+    Section : PCB Library - THYRISTORS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token йс208ц1 On Line 110
+            Warning - 1 : Skipping Token attachedSymbol On Line 166
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - THYRISTORS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 93
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token defaultPinDes On Line 117
+            Warning - 1 : Skipping Token defaultPinDes On Line 124
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+        EndSection
+
+        Section : Generating SCH Library - THYRISTORS.SchLib
+        EndSection
+    EndSection
+EndSection
